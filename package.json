@@ -1,0 +1,18 @@
+{
+  "name": "brandy-cli-dev",
+  "version": "1.0.0",
+  "description": "brandy-cli dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Run test from core\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
