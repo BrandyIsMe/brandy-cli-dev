@@ -6,7 +6,7 @@
   "homepage": "",
   "license": "ISC",
   "bin": {
-    "brandy-core": "bin/index.js"
+    "brandy-utils": "bin/index.js"
   },
   "main": "lib/utils.js",
   "directories": {
