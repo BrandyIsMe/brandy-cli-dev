@@ -1,6 +1,6 @@
 {
   "name": "@brandy-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "brandy-cli-dev core",
   "author": "brandy <yfbrandy@itcom888.com>",
   "homepage": "",
@@ -18,5 +18,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/core.test.js"
-  }
+  },
+  "gitHead": "0a4c05cbed667322e54d2635977361cf0d3f3149"
 }

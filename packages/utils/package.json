@@ -5,6 +5,9 @@
   "author": "brandy <yfbrandy@itcom888.com>",
   "homepage": "",
   "license": "ISC",
+  "bin": {
+    "brandy-core": "bin/index.js"
+  },
   "main": "lib/utils.js",
   "directories": {
     "lib": "lib",
