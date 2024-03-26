@@ -1,6 +1,6 @@
 {
   "name": "@brandy-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "brandy-cli-dev core",
   "author": "brandy <yfbrandy@itcom888.com>",
   "homepage": "",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "@brandy-cli-dev/utils": "^1.0.0"
+    "@brandy-cli-dev/utils": "^1.0.1"
   },
   "files": [
     "lib"
