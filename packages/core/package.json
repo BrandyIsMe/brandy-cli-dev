@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "@brandy-cli-dev/utils": "^1.0.2"
+    "@brandy-cli-dev/utils": "file:../utils"
   },
   "files": [
     "lib"
